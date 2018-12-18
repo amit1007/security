@@ -25,3 +25,13 @@ webscarab
 web server attack
 appache tomcat 
 netcraft demo
+***********************
+web mirroring commands 
+wget
+parameter -m 
+winHTTrack Website copier
+httrack-3.49.2.exe(for windows)
+
+git clone --depth 1 https://github.com/andresriancho/w3af.git
+cd w3af
+./w3af_gui
