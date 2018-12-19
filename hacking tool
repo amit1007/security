@@ -1,4 +1,26 @@
 MayDF0rcebW1tHU//password
+Active Wired Client Table
+Name 	IP Address 	MAC Address
+earth-H81M-S 	192.168.0.24 	40:8d:5c:3c:e3:ef
+earth-H81M-S 	192.168.0.16 	40:8d:5c:63:04:fe
+earths-iMac 	192.168.0.9 	a8:20:66:1c:ce:fb
+TL-WR841N 	192.168.0.2 	98:de:d0:4b:cf:1f
+earth-MS-7817 	192.168.0.123 	d8:cb:8a:ed:6c:fe
+earth-H81M-S 	192.168.0.13 	40:8d:5c:3c:e4:09
+earth-H81M-S 	192.168.0.21 	40:8d:5c:63:05:02
+Admins-iMac 	192.168.0.7 	40:6c:8f:50:ee:50
+Active Wireless Client Table
+Name 	IP Address 	MAC Address
+earth-Vostro-3446 	192.168.0.18 	00:71:cc:00:c7:09
+earth-Lenovo-ideapad-320-15ISK 	192.168.0.27 	60:14:b3:ae:68:95
+earth 	192.168.0.26 	dc:85:de:21:a3:bb
+Unknown 	192.168.0.8 	40:4e:36:87:af:d3
+earth-K54C 	192.168.0.22 	7c:e9:d3:76:c8:d1
+Unknown 	192.168.0.11 	f0:d7:aa:27:df:45
+earth-X541UV 	192.168.0.30 	54:8c:a0:48:22:f2
+Galaxy-J7-Max 	192.168.0.4 	60:8e:08:06:86:8b
+earth-Vostro-3445 	192.168.0.25 	4c:bb:58:36:83:a6
+RedmiNote5Pro-Redmi 	192.168.0.6 	d8:32:e3:55:38:fa
 
 zap attack tool 
 burp suite
